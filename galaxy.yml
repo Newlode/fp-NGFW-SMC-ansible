@@ -18,5 +18,4 @@ repository: https://github.com/Newlode/fp-NGFW-SMC-ansible
 documentation: https://github.com/Newlode/fp-NGFW-SMC-ansible/tree/master/docs
 homepage: https://www.forcepoint.com
 issues: https://github.com/Newlode/fp-NGFW-SMC-ansible/issues
-dependencies:
-  "fp-NGFW-SMC-python": ">=1.0.28"
+dependencies: {}
