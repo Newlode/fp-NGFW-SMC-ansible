@@ -1,0 +1,22 @@
+namespace: forcepoint
+name: forcepoint_ngfw_smc
+version: 1.0.3
+readme: README.md
+authors:
+  - Forcepoint
+description: Ansible collection for Forcepoint Next Generation Firewall Security Management Center
+license:
+  - Apache-2.0
+tags:
+  - smc
+  - forcepoint
+  - networking
+  - security
+  - ngfw
+  - firewall
+repository: https://github.com/Newlode/fp-NGFW-SMC-ansible
+documentation: https://github.com/Newlode/fp-NGFW-SMC-ansible/tree/master/docs
+homepage: https://www.forcepoint.com
+issues: https://github.com/Newlode/fp-NGFW-SMC-ansible/issues
+dependencies:
+  "fp-NGFW-SMC-python": ">=1.0.28"
